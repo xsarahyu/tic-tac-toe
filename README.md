@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe: Waffles Edition
 
 ### Description
 This project implements a basic Tic-Tac-Toe game using vanilla JavaScript. It allows two players to take turns placing their symbols on a 3x3 grid. The game checks for wins and draws and displays the results accordingly.
@@ -18,3 +18,4 @@ This project implements a basic Tic-Tac-Toe game using vanilla JavaScript. It al
 ### Lessons Learned
 - How to use constructors to create objects and methods.
 - Trick: Make an independent element equal "false" and use it as a conditional to prevent certain functions from running.
+- How to create CSS animations.
